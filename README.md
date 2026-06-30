@@ -64,16 +64,14 @@ All configuration files are stored in this repository and deployed automatically
   <p><strong>Figure 2:</strong> Rofi application launcher in action</p>
 </div>
 
-<!--
 <div align="center">
   <img src="screenshots/lightdm.png" alt="LightDM Login" width="600"/>
-  <p><strong>Figure 7:</strong> Custom LightDM greeter with wallpaper background</p>
+  <p><strong>Figure 3:</strong> Custom LightDM greeter with wallpaper background</p>
 </div>
--->
 
 <div align="center">
   <img src="screenshots/workspaces.png" alt="Hyprland Workspaces" width="800"/>
-  <p><strong>Figure 3:</strong> Dynamic tiling and workspace overview</p>
+  <p><strong>Figure 4:</strong> Dynamic tiling and workspace overview</p>
 </div>
 
 ---
